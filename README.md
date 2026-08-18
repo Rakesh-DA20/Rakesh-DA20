@@ -16,7 +16,7 @@
 
 ## 👨‍💼 About Me
 
-I am a **Senior Process Consultant at Sagility** with 2+ years of experience in **US Healthcare Insurance operations**. I have built a full Data Analytics skill stack and I am actively looking for Data Analyst roles in Bengaluru.
+I am a **Senior Process Consultant at Sagility** with 3+ years of experience in **US Healthcare Insurance operations**. I have built a full Data Analytics skill stack and I am actively looking for Data Analyst roles in Bengaluru.
 
 - 🏥 Domain expertise in **US Health Insurance** — claims and provider operations
 - 📊 Certified in **Excel, Power BI, SQL and Tableau** — ExcelR, Bengaluru 2025–2026
